@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranav Deshpande</h1>
-<h3 align="center">Passionate Data Scientist from India</h3>
+<h3 align="center">Building Intelligent Solutions with Code, Data, and Curiosity | Data Science | ML | Web</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
+- 🌱 Currently into Web and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T095T](https://github.com/T095T)
 
-- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **www.linkedin.com/in/pranav-deshpande-74a112269**
 
