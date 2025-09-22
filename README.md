@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pranav Deshpande</h1>
-<h3 align="center">🚀 Building Intelligent Solutions with Code, Data & Curiosity</h3>
-<h4 align="center">💡 Data Science | Machine Learning | Web Development</h4>
+<h1 align="center">Pranav Deshpande</h1>
+<h3 align="center">Building Intelligent Solutions with Code, Data & Curiosity</h3>
+<h4 align="center">Data Science | Machine Learning | Web Development</h4>
 
 ---
 
-## 🎓 Education
+## Education
 
 **All India Shree Shivaji Memorial Society’s Institute of Information Technology, Pune**  
 B.E in Artificial Intelligence and Data Science (Nov 2022 – Jun 2025)  
@@ -18,7 +18,7 @@ Diploma in Computer Science (Aug 2019 – Sep 2022)
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Data Science Intern – Brain-O-Vision** (Jan 2024 – Mar 2024, Remote)  
 - Developed ML system for disease detection  
@@ -31,7 +31,7 @@ Diploma in Computer Science (Aug 2019 – Sep 2022)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **CuraPredict** | Python, Flask, NLP, ML  
 - NLP-based disease prediction & drug recommendation tool (85% accuracy)  
@@ -47,14 +47,14 @@ Diploma in Computer Science (Aug 2019 – Sep 2022)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - The Complete Full-Stack Web Development Bootcamp (Apr 2024)  
 - Complete A.I. & Machine Learning, Data Science Bootcamp (May 2025)  
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages:** Python, C++, SQL, HTML  
 - **AI/ML:** TensorFlow, YOLOv8, OpenCV, Scikit-Learn, NLP, CNN, Random Forest  
@@ -62,14 +62,6 @@ Diploma in Computer Science (Aug 2019 – Sep 2022)
 - **Web Dev:** Next.js, Bootstrap, Tailwind, Firebase  
 - **Version Control:** Git  
 - **Platforms:** VS Code, Jupyter Notebook  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T095T&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T095T&theme=tokyonight" alt="github streak" />
-</p>
 
 ---
 
