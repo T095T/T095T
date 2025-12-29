@@ -13,20 +13,7 @@ Full-stack developer building real products, one system at a time.
 
 🔷 my goto stack
 
-- javascript  
-- typescript  
-- python  
-- react  
-- next.js  
-- node.js  
-- express  
-- mongodb  
-- postgresql  
-- sql  
-- tailwind css  
-- firebase  
-- electron  
-- opencv  
+- javascript · typescript · python · react · next.js · node.js · express · mongodb · postgresql · sql · tailwind css · firebase · electron · opencv
 
 ---
 
@@ -56,7 +43,7 @@ Full-stack developer building real products, one system at a time.
 
 🔷 building from zero
 
-i enjoy building systems from scratch — designing the frontend, structuring the backend, modeling data, and deploying applications. i care more about shipping usable products and learning through iteration than chasing trends.
+I enjoy building systems from scratch , designing the frontend, structuring the backend, modeling data, and deploying applications. I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
 
 ---
 
