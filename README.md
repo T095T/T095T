@@ -1,124 +1,131 @@
-Hi, I’m Pranav (T095T)
+# Pranav (T095T)
 
-Full-Stack Developer with hands-on experience building modern web applications and AI-powered systems.  
-I enjoy turning ideas into real products using clean code, scalable architecture, and practical problem-solving.
+Full-Stack Developer focused on building clean, scalable, and practical web applications.  
+I enjoy working across the stack — from designing intuitive user interfaces to building robust backend systems and integrating AI where it adds real value.
+
+Currently exploring better system design, real-time applications, and production-level frontend and backend patterns.
 
 ---
 
-Tech Stack
+## Tech Stack
 
-Frontend
-- HTML, CSS, JavaScript
+**Frontend**
+- JavaScript, HTML, CSS
 - React, Next.js
 - Tailwind CSS
 
-Backend
+**Backend**
 - Node.js, Express
-- REST APIs
-- Authentication and Authorization
+- RESTful API design
+- Authentication and authorization
 
-Databases
+**Databases**
 - MongoDB
 - PostgreSQL
 - SQL
 
-AI / ML and Tools
+**AI / ML and Tools**
 - Python
-- Machine Learning basics
-- Git and GitHub
+- Machine Learning fundamentals
+- Git, GitHub
 - Firebase
 
 ---
 
-Projects
+## Featured Projects
 
-HiveMind  
-A real-time collaborative canvas and idea-sharing platform designed for team brainstorming and live collaboration.
+### HiveMind
+A real-time collaborative canvas platform built to explore how modern brainstorming and whiteboarding tools work under the hood.
 
-Key highlights:
-- Real-time collaboration using Liveblocks
-- Interactive canvas built with Fabric.js
-- Shared state synchronization for multiple users
-- Clean and responsive UI built with Next.js and Tailwind CSS
-- Designed to simulate modern collaborative tools
+This project focuses heavily on real-time state synchronization and collaborative UX.
 
-Tech stack:
+**What I worked on**
+- Implemented real-time collaboration features using Liveblocks
+- Built an interactive drawing canvas using Fabric.js
+- Synced shared state, cursor positions, and updates across users
+- Designed a clean, responsive UI using Next.js and Tailwind CSS
+- Focused on scalability and low-latency collaboration
+
+**Tech used**
 Next.js, TypeScript, Liveblocks, Fabric.js, Tailwind CSS
 
 ---
 
-Skooly  
-An education-focused web platform aimed at simplifying learning workflows and content interaction.
+### Skooly
+An education-focused web platform designed with a product mindset, aimed at simplifying learning workflows and content interaction.
 
-Key highlights:
-- Structured and modular frontend architecture
-- Focus on usability, accessibility, and clean UI
-- Scalable design suitable for ed-tech use cases
-- Built with real-world product thinking
+**What I worked on**
+- Designed a modular and scalable frontend architecture
+- Focused on usability, accessibility, and clean layouts
+- Built reusable UI components for long-term scalability
+- Structured the project keeping real-world ed-tech use cases in mind
 
-Tech stack:
+**Tech used**
 React, Next.js, Tailwind CSS, JavaScript
 
 ---
 
-Nexara  
-An AI-powered mock interview platform that helps users practice interviews in a realistic environment.
+### Nexara
+An AI-powered mock interview platform that simulates technical interviews for students and freshers.
 
-Key highlights:
-- AI-driven interview simulation using Vapi AI agent
-- User authentication using Firebase
-- Modern UI with smooth user flow
-- Designed for students and freshers preparing for interviews
+**What I worked on**
+- Integrated AI-driven interview flows using Vapi AI agents
+- Implemented authentication using Firebase
+- Designed smooth user flows and clean UI interactions
+- Built the platform with interview realism as a core goal
 
-Tech stack:
+**Tech used**
 Next.js, Tailwind CSS, Firebase, AI APIs
 
 ---
 
-NoteCraft  
-A lightweight desktop application for writing and managing Markdown-based notes.
+### NoteCraft
+A lightweight desktop application focused on fast and distraction-free Markdown note-taking.
 
-Key highlights:
-- Cross-platform desktop app built with Electron
-- Local file storage using plain Markdown files
-- Focus on speed, simplicity, and distraction-free writing
-- Suitable for developers and technical users
+**What I worked on**
+- Built a cross-platform desktop app using Electron
+- Implemented local file-based storage using Markdown
+- Focused on performance, simplicity, and keyboard-driven usage
+- Designed for developers and technical users
 
-Tech stack:
+**Tech used**
 Electron, React, TypeScript, Markdown
 
 ---
 
-Smart Surveillance and Crime Detection Using AI  
-An AI-based surveillance system for detecting suspicious or criminal activities from video streams.
+### Smart Surveillance and Crime Detection Using AI
+An AI-driven surveillance system designed to detect suspicious or criminal activities from video streams.
 
-Key highlights:
-- Computer vision-based anomaly detection
-- Video processing using OpenCV
-- End-to-end AI pipeline for surveillance use cases
-- Focused on real-world smart security applications
+**What I worked on**
+- Built an end-to-end computer vision pipeline
+- Applied anomaly detection concepts on video data
+- Processed real-time and recorded video streams using OpenCV
+- Focused on practical smart surveillance use cases
 
-Tech stack:
+**Tech used**
 Python, OpenCV, Machine Learning
 
 ---
 
-GitHub Stats
+## GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=T095T&show_icons=true&theme=radical
 
 ---
 
-Connect
+## Connect
 
-LinkedIn: https://linkedin.com/in/pranav-d-74a112269  
-GitHub: https://github.com/T095T  
+LinkedIn  
+https://linkedin.com/in/pranav-d-74a112269  
+
+GitHub  
+https://github.com/T095T  
 
 ---
 
-About Me
+## Currently Learning
 
-- Interested in full-stack development and real-world applications
-- Strong foundation in OOP, SQL, and core CS concepts
-- Enjoy building products from scratch and learning new technologies
-- Focused on writing clean and maintainable code
+- Better system design for full-stack applications
+- Performance optimization in React and Next.js
+- Writing cleaner, more maintainable backend code
+- Applying AI responsibly in real-world products
