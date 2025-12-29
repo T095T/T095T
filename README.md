@@ -1,129 +1,33 @@
-# 👋 Pranav (T095T)
+Pranav (T095T)
+full-stack developer building real products, one system at a time.
+linkedin • github • portfolio
 
-💻 **Full-Stack Developer** focused on building clean, scalable, and practical web applications.  
-I enjoy working across the stack — from designing intuitive user interfaces to building robust backend systems and integrating AI where it adds real value.
+🔷 my goto stack
+javascript · typescript · python · react · next.js · node.js · express · mongoDB · postgresql · sql · tailwind · firebase · electron · opencv
 
-🚀 Currently exploring system design, real-time applications, and production-level frontend and backend patterns.
+🔷 my latest projects
 
----
+HiveMind — real-time collaborative canvas for brainstorming and ideation. supports live cursors, shared state, and synchronized updates across users. focused on understanding how modern collaborative tools work under the hood. built with next.js, typescript, liveblocks, fabric.js, and tailwind css.
 
-## 🛠️ Tech Stack
+Skooly — education-focused web platform designed to simplify learning workflows and content interaction. emphasizes clean UI, modular architecture, and real-world ed-tech product thinking. built with react, next.js, javascript, and tailwind css.
 
-### 🎨 Frontend
-- HTML, CSS, JavaScript
-- React, Next.js
-- Tailwind CSS
+Nexara — ai-powered mock interview platform that simulates realistic interview experiences for students and freshers. integrates ai agents for interview flow, authentication, and smooth user experience. built with next.js, tailwind css, firebase, and ai apis.
 
-### ⚙️ Backend
-- Node.js, Express
-- RESTful API design
-- Authentication and Authorization
+NoteCraft — lightweight desktop application for fast, distraction-free markdown note taking. stores notes locally using plain files and focuses on performance and simplicity for developers. built with electron, react, and typescript.
 
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL
-- SQL
+Smart Surveillance and Crime Detection Using AI — computer vision based surveillance system for detecting suspicious or criminal activities from video streams. focuses on anomaly detection and real-world smart security use cases. built with python, opencv, and machine learning models.
 
-### 🤖 AI / ML & Tools
-- Python
-- Machine Learning fundamentals
-- Git, GitHub
-- Firebase
+🔷 building from zero
+i like building things from scratch. from designing the frontend, structuring the backend, wiring databases, to deploying and iterating based on feedback. i care more about shipping usable products than debating tools. learning by building is my default mode.
 
----
+🔷 notable focus areas
+full-stack development — designing and implementing complete web applications end to end.
+real-time systems — collaboration, shared state, and low-latency updates.
+ai integration — using ai where it adds value, not just for the buzz.
+clean architecture — writing maintainable code that scales with the project.
 
-## 🚀 Featured Projects
-
-### 🧠 HiveMind
-A real-time collaborative canvas platform built to explore how modern brainstorming and whiteboarding tools work under the hood.
-
-**What I worked on**
-- Real-time collaboration using Liveblocks
-- Interactive drawing canvas with Fabric.js
-- Shared state sync, live cursors, and updates
-- Clean, responsive UI with Next.js and Tailwind CSS
-- Focus on low-latency and scalable collaboration
-
-**Tech used**  
-Next.js · TypeScript · Liveblocks · Fabric.js · Tailwind CSS
-
----
-
-### 🎓 Skooly
-An education-focused web platform designed with a product mindset to simplify learning workflows and content interaction.
-
-**What I worked on**
-- Modular and scalable frontend architecture
-- Strong focus on usability and clean UX
-- Reusable UI components for long-term maintainability
-- Designed for real-world ed-tech scenarios
-
-**Tech used**  
-React · Next.js · Tailwind CSS · JavaScript
-
----
-
-### 💬 Nexara
-An AI-powered mock interview platform that simulates technical interviews for students and freshers.
-
-**What I worked on**
-- AI-driven interview flows using Vapi AI agents
-- Authentication using Firebase
-- Smooth user journeys and modern UI
-- Built with interview realism as the core goal
-
-**Tech used**  
-Next.js · Tailwind CSS · Firebase · AI APIs
-
----
-
-### 📝 NoteCraft
-A lightweight desktop application focused on fast and distraction-free Markdown note-taking.
-
-**What I worked on**
-- Cross-platform desktop app using Electron
-- Local Markdown-based file storage
-- Performance-focused and minimal UI
-- Built for developers and technical users
-
-**Tech used**  
-Electron · React · TypeScript · Markdown
-
----
-
-### 🎥 Smart Surveillance and Crime Detection Using AI
-An AI-driven surveillance system designed to detect suspicious or criminal activities from video streams.
-
-**What I worked on**
-- End-to-end computer vision pipeline
-- Anomaly detection on video data
-- Real-time and recorded video processing
-- Practical smart surveillance use cases
-
-**Tech used**  
-Python · OpenCV · Machine Learning
-
----
-
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=T095T&show_icons=true&theme=radical
-
----
-
-## 🔗 Connect
-
-💼 LinkedIn  
-https://linkedin.com/in/pranav-d-74a112269  
-
-🐙 GitHub  
-https://github.com/T095T  
-
----
-
-## 📚 Currently Learning
-
-- System design for full-stack applications
-- Performance optimization in React and Next.js
-- Writing cleaner and more maintainable backend code
-- Applying AI responsibly in real-world products
+🔷 currently exploring
+advanced next.js patterns and performance optimization.
+system design fundamentals for scalable web apps.
+better database modeling and query optimization.
+production-ready ai integrations in full-stack products.
