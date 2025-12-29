@@ -1,33 +1,40 @@
-Pranav (T095T)
-full-stack developer building real products, one system at a time.
-linkedin • github • portfolio
+Pranav (T095T)  
+full-stack developer building real products, one system at a time.  
 
-🔷 my goto stack
-javascript · typescript · python · react · next.js · node.js · express · mongoDB · postgresql · sql · tailwind · firebase · electron · opencv
+[linkedin](https://linkedin.com/in/pranav-d-74a112269) ·
+[github](https://github.com/T095T)
 
-🔷 my latest projects
+🔷 my goto stack  
+javascript · typescript · python · react · next.js · node.js · express · mongodb · postgresql · sql · tailwind · firebase · electron · opencv
 
-HiveMind — real-time collaborative canvas for brainstorming and ideation. supports live cursors, shared state, and synchronized updates across users. focused on understanding how modern collaborative tools work under the hood. built with next.js, typescript, liveblocks, fabric.js, and tailwind css.
+🔷 my latest projects  
 
-Skooly — education-focused web platform designed to simplify learning workflows and content interaction. emphasizes clean UI, modular architecture, and real-world ed-tech product thinking. built with react, next.js, javascript, and tailwind css.
+[HiveMind](https://github.com/T095T/hivemind) — real-time collaborative canvas for brainstorming and ideation. built to understand how modern collaboration tools handle shared state and low-latency updates. supports live cursors, synchronized canvas actions, and multi-user presence. focuses on real-time UX, scalability, and clean system design.  
+built with next.js, typescript, liveblocks, fabric.js, and tailwind css.
 
-Nexara — ai-powered mock interview platform that simulates realistic interview experiences for students and freshers. integrates ai agents for interview flow, authentication, and smooth user experience. built with next.js, tailwind css, firebase, and ai apis.
+[Skooly](https://github.com/T095T/skooly) — education-focused web platform aimed at simplifying learning workflows and content interaction. designed with a strong focus on clean UI, modular components, and usability. structured to scale for real-world ed-tech scenarios rather than just demos.  
+built with react, next.js, javascript, and tailwind css.
 
-NoteCraft — lightweight desktop application for fast, distraction-free markdown note taking. stores notes locally using plain files and focuses on performance and simplicity for developers. built with electron, react, and typescript.
+[Nexara](https://github.com/T095T/nexara) — ai-powered mock interview platform that simulates realistic interview experiences for students and freshers. integrates ai agents to drive interview flow, follow-up questions, and responses. focuses on smooth user experience, authentication, and interview realism.  
+built with next.js, tailwind css, firebase, and ai apis.
 
-Smart Surveillance and Crime Detection Using AI — computer vision based surveillance system for detecting suspicious or criminal activities from video streams. focuses on anomaly detection and real-world smart security use cases. built with python, opencv, and machine learning models.
+[NoteCraft](https://github.com/T095T/notecraft) — lightweight desktop application for fast and distraction-free markdown note taking. designed for developers who prefer local-first tools and minimal interfaces. emphasizes performance, keyboard-driven workflows, and simplicity over feature bloat.  
+built with electron, react, and typescript.
 
-🔷 building from zero
-i like building things from scratch. from designing the frontend, structuring the backend, wiring databases, to deploying and iterating based on feedback. i care more about shipping usable products than debating tools. learning by building is my default mode.
+[Smart Surveillance and Crime Detection Using AI](https://github.com/T095T/smart-surveillance-ai) — computer vision–based surveillance system for detecting suspicious or criminal activities from video streams. focuses on anomaly detection, video processing, and real-world security use cases. built as an end-to-end ai pipeline from data processing to detection.  
+built with python, opencv, and machine learning models.
 
-🔷 notable focus areas
-full-stack development — designing and implementing complete web applications end to end.
-real-time systems — collaboration, shared state, and low-latency updates.
-ai integration — using ai where it adds value, not just for the buzz.
-clean architecture — writing maintainable code that scales with the project.
+🔷 building from zero  
+i enjoy building systems from scratch — designing the frontend, structuring the backend, modeling data, and deploying applications. i care more about shipping usable products and learning through iteration than chasing trends or overengineering.
 
-🔷 currently exploring
-advanced next.js patterns and performance optimization.
-system design fundamentals for scalable web apps.
-better database modeling and query optimization.
+🔷 notable focus areas  
+full-stack development — building complete applications end to end.  
+real-time systems — collaboration, shared state, and low-latency updates.  
+ai integration — applying ai where it provides real value.  
+clean architecture — writing maintainable and scalable code.
+
+🔷 currently exploring  
+advanced next.js patterns and performance optimization.  
+system design fundamentals for scalable applications.  
+database modeling and query optimization.  
 production-ready ai integrations in full-stack products.
