@@ -4,8 +4,9 @@
 
 Full-stack developer building real products, one system at a time.
 
-[linkedin](https://linkedin.com/in/pranav-d-74a112269) ·
-[github](https://github.com/T095T)
+[Linkedin](https://linkedin.com/in/pranav-d-74a112269) ·
+[Github](https://github.com/T095T)
+[Portfolio](https://pranav-deshpande-tau.vercel.app/)
 
 </div>
 
